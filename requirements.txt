@@ -1,0 +1,11 @@
+# Core dependencies for the application
+pandas
+numpy
+statsmodels>=0.14
+pgmpy
+networkx
+plotly
+streamlit
+
+# Optional: for enhanced functionality
+matplotlib
